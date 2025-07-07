@@ -80,7 +80,7 @@
                             </p>
                             <p class="mb-1 text-light-emphasis">
                                 <i class="fas fa-map-marker-alt me-2 text-primary"></i>
-                                Global Speaker
+                             5/1 North Behind Harsiddhi Temple Near Collector Office,Indore 452007, Madhya Pradesh
                             </p>
                             <p class="mb-0 text-light-emphasis">
                                 <i class="fas fa-clock me-2 text-primary"></i>
