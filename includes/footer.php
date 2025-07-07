@@ -80,7 +80,7 @@
                             </p>
                             <p class="mb-1 text-light-emphasis">
                                 <i class="fas fa-map-marker-alt me-2 text-primary"></i>
-                             5/1 North Behind Harsiddhi Temple Near Collector Office,Indore 45200\, Madhya Pradesh
+                             5/1 North Behind Harsiddhi Temple Near Collector Office,Indore 452001, Madhya Pradesh
                             </p>
                             <p class="mb-0 text-light-emphasis">
                                 <i class="fas fa-clock me-2 text-primary"></i>

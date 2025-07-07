@@ -218,16 +218,18 @@
                         <div class="location-details">
                             <p class="mb-2">
                                 <i class="fas fa-map-marker-alt me-2 text-primary"></i>
-                                123 Success Boulevard<br>
-                                <span class="ms-4">New York, NY 10001</span>
+                                 5/1 North Behind Harsiddhi Temple Near Collector Office,Indore 452001, Madhya Pradesh<br>
+                                <span class="ms-4">Indore, Madhya Pradesh</span>
                             </p>
                             <p class="mb-2">
                                 <i class="fas fa-phone me-2 text-primary"></i>
-                                +1 (555) 123-4567
+                                 +91 9179491731
+
+
                             </p>
                             <p class="mb-3">
                                 <i class="fas fa-clock me-2 text-primary"></i>
-                                Mon-Fri: 9AM-6PM EST
+                                24 Hour Response
                             </p>
                             <div class="location-services">
                                 <small class="">Services:</small>
