@@ -21,7 +21,7 @@
                             Your journey to success starts with a single step.
                         </p>
                         <div class="social-links d-flex gap-3">
-                            <a href="#" class="text-primary" aria-label="Facebook">
+                            <a href="https://www.facebook.com/profile.php?id=61576669535130" class="text-primary" aria-label="Facebook">
                                 <i class="fab fa-facebook fa-lg"></i>
                             </a>
                             <a href="#" class="text-primary" aria-label="Twitter">
@@ -30,10 +30,10 @@
                             <a href="#" class="text-primary" aria-label="LinkedIn">
                                 <i class="fab fa-linkedin fa-lg"></i>
                             </a>
-                            <a href="#" class="text-primary" aria-label="Instagram">
+                            <a href="https://www.instagram.com/nexaasha/" class="text-primary" aria-label="Instagram">
                                 <i class="fab fa-instagram fa-lg"></i>
                             </a>
-                            <a href="#" class="text-primary" aria-label="YouTube">
+                            <a href="https://www.youtube.com/@NexAasha" class="text-primary" aria-label="YouTube">
                                 <i class="fab fa-youtube fa-lg"></i>
                             </a>
                         </div>
@@ -80,7 +80,7 @@
                             </p>
                             <p class="mb-1 text-light-emphasis">
                                 <i class="fas fa-map-marker-alt me-2 text-primary"></i>
-                             5/1 North Behind Harsiddhi Temple Near Collector Office,Indore 452007, Madhya Pradesh
+                             5/1 North Behind Harsiddhi Temple Near Collector Office,Indore 45200\, Madhya Pradesh
                             </p>
                             <p class="mb-0 text-light-emphasis">
                                 <i class="fas fa-clock me-2 text-primary"></i>

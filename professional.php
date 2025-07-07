@@ -6,7 +6,8 @@
     <title>Professional Motivational Speaking Services | NexAasha</title>
     <meta name="description" content="Book world-class motivational speakers for your corporate events. Proven track record with 500+ successful events and measurable results.">
     <meta name="keywords" content="professional speaker, keynote speaker services, corporate motivational speaker, event speaker booking, inspirational speaker hire, business speaker, conference speaker, motivational keynote">
-    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+ 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     

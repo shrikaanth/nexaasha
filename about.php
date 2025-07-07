@@ -6,7 +6,8 @@
     <title>About Us - Unleashing Human Potential | NexAasha</title>
     <meta name="description" content="Discover the story behind NexAasha - India's rising platform for transformational leadership, motivational speaking, and life coaching. From struggle to success.">
     <meta name="keywords" content="about nexaasha, motivational speaker india, life coach, transformational leadership, personal development, inspiring story, founder journey">
-    
+     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     
@@ -21,10 +22,49 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="assets/css/about.css">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon_io/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon_io/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon_io/favicon-16x16.png">
+<link rel="manifest" href="assets/img/favicon_io/site.webmanifest">
 </head>
 <body>
     <!-- Navigation -->
-    <?php include("includes/navbar.php")?>
+    <nav class="navbar navbar-expand-lg fixed-top navbar-custom">
+        <div class="container">
+            <a class="navbar-brand gradient-text fw-bold fs-2 d-flex align-items-center gap-2" href="#home">
+                <img src="assets/img/logo.png" width="50px" height="50px" alt="NexAasha Logo">
+            </a>
+            
+             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link fw-medium" href="index.php">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link fw-medium" href="about.php">About</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link fw-medium" href="motivational.php">Motivational Speaker</a>
+                    </li>
+
+                   
+                    <li class="nav-item">
+                        <a class="nav-link fw-medium" href="wellness.php">Wellness & Mental Health</a>
+                    </li>
+
+  <li class="nav-item">
+                        <a class="nav-link fw-medium" href="contact.php">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
     <!-- Hero Section -->
     <section id="hero" class="hero-section position-relative overflow-hidden">
         <div class="floating-elements">
